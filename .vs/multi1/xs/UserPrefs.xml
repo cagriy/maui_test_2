@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{5496E496-E996-49D8-A72E-54E18B2DCF97}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.multi1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6AD9722D-9EDB-45F8-808F-7F835E62F556" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6AD9722D-9EDB-45F8-808F-7F835E62F556" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="multi1/MainPage.xaml.cs">
+    <Files>
+      <File FileName="multi1/MainPage.xaml.cs" Line="15" Column="9" />
+      <File FileName="multi1/MainPage.xaml" Line="18" Column="30" />
+      <File FileName="../../.microsoft/usersecrets/943d2ea3-1a0e-4175-a2cd-b3362e044a7c/secrets.json" />
+      <File FileName="multi1/MauiProgram.cs" />
+      <File FileName="multi1.sln" />
+      <File FileName="multi1/App.xaml" />
+      <File FileName="multi1/Platforms/Android/MainActivity.cs" />
+      <File FileName="multi1/Platforms/Android/MainApplication.cs" />
+      <File FileName="multi1/Platforms/Android/AndroidManifest.xml" />
+      <File FileName="multi1/Platforms/Android/Resources/values/colors.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="multi1" expanded="True">
+            <Node name="multi1" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True">
+                  <Node name="Resources" expanded="True">
+                    <Node name="values" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

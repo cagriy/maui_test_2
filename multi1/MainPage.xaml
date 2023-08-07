@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="multi1.MainPage">
+
+    <Grid Padding="20"
+>
+
+        <Border x:Name="Card1" BackgroundColor="CornflowerBlue" ZIndex="1"
+               Grid.Row="1"
+               Grid.Column="1"
+               StrokeShape="RoundRectangle 30,30,30,30">
+            <Border.Shadow>
+               <Shadow Brush="Black"
+                       Opacity="0.8"
+                       Offset="6,6"/>
+            </Border.Shadow>
+            <Label Text="Card 1 Card 1 Card 1 Card 1 "/>
+        </Border>
+        <Border x:Name="Card2" BackgroundColor="LightGreen" ZIndex="0"
+               Grid.Row="1"
+               Grid.Column="1"
+               StrokeShape="RoundRectangle 30,30,30,30">
+            <Label Text="Card 2 Card 2 Card 2 Card 2 "/>
+        </Border>
+    </Grid>
+</ContentPage>
+
